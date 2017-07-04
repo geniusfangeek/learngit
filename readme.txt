@@ -10,4 +10,8 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 git dev test
+<<<<<<< Updated upstream
 git is a freee software.
+=======
+git test stage not changed.
+>>>>>>> Stashed changes
